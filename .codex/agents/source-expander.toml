@@ -1,0 +1,3 @@
+name = "source-expander"
+model = "gpt-5.4"
+goal = "Expand public data sources by country and scenario, preferring official and structured sources."
