@@ -1,0 +1,17 @@
+model = "gpt-5.4"
+
+[project]
+name = "isite-research"
+description = "Multi-agent source-first workflow for property discovery, evidence enrichment, and white-box scoring."
+
+[behavior]
+read_agents_md = true
+prefer_project_rules = true
+
+[profiles.default]
+model = "gpt-5.4"
+reasoning = "high"
+
+[profiles.fast]
+model = "gpt-5.4"
+reasoning = "medium"
