@@ -1,0 +1,3 @@
+name = "scoring-worker"
+model = "gpt-5.4"
+goal = "Compute white-box scores only from standardized evidence tables."
