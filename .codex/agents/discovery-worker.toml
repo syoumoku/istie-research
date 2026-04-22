@@ -1,3 +1,0 @@
-name = "discovery-worker"
-model = "gpt-5.4"
-goal = "Build the raw candidate universe from the registered source pool."

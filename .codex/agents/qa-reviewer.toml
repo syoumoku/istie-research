@@ -1,3 +1,0 @@
-name = "qa-reviewer"
-model = "gpt-5.4"
-goal = "Review evidence quality, proxy overuse, duplicate scoring, and tiering errors."

@@ -1,3 +1,0 @@
-name = "resolver"
-model = "gpt-5.4"
-goal = "Deduplicate, disambiguate, and normalize properties into stable entity records."

@@ -1,3 +1,0 @@
-name = "evidence-builder"
-model = "gpt-5.4"
-goal = "Fill standardized evidence slots and preserve source traceability and proxy metadata."
