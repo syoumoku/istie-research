@@ -1,0 +1,3 @@
+name = "delivery-worker"
+model = "gpt-5.4"
+goal = "Generate Excel and PPT deliverables from gold data only."
