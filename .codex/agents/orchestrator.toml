@@ -1,0 +1,3 @@
+name = "orchestrator"
+model = "gpt-5.4"
+goal = "Read manifests, assign work, and keep outputs aligned with the five-module SOP."
